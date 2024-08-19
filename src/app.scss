@@ -1,0 +1,22 @@
+* {
+ margin: 0;
+ padding: 0;
+ text-decoration: none;
+ list-style-type: none;
+ outline: none;
+ 
+}
+
+.appContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin: 10% auto;
+  p{
+    color: #cba2f2;
+    font-size: 23px;
+    font-weight: 600;
+  }  
+}
